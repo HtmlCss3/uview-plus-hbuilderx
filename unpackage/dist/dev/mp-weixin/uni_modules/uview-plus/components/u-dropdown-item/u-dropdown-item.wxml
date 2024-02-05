@@ -1,0 +1,1 @@
+<view class="u-drawdown-item data-v-2ab01489"><u-overlay wx:if="{{b}}" class="data-v-2ab01489" bindclick="{{a}}" u-i="2ab01489-0" bind:__l="__l" u-p="{{b}}"></u-overlay><view class="u-drawdown-item__content data-v-2ab01489" style="{{c}}" animation="{{d}}" ref="animation"><slot/></view></view>

@@ -1,0 +1,274 @@
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * 使用的时候，请将下面的一行复制到您的uniapp项目根目录的uni.scss中即可
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+page.data-v-03a7128b {
+  height: 100%;
+  background-color: #f4f4f4;
+}
+.u-wrap.data-v-03a7128b {
+  padding: 24rpx;
+}
+.meituan.data-v-03a7128b {
+  margin: 30rpx auto;
+  background-color: #ffffff;
+  width: 700rpx;
+  color: #f9ae3d;
+  font-size: 28rpx;
+}
+.meituan .content.data-v-03a7128b {
+  display: flex;
+  align-items: center;
+  padding: 80rpx 20rpx;
+  border: 10rpx;
+  background-color: #fff5f4;
+}
+.meituan .content .left .sum.data-v-03a7128b {
+  font-size: 32rpx;
+}
+.meituan .content .left .sum .num.data-v-03a7128b {
+  font-size: 60rpx;
+  font-weight: bold;
+}
+.meituan .content .centre.data-v-03a7128b {
+  margin-left: 40rpx;
+}
+.meituan .content .centre .title.data-v-03a7128b {
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #303133;
+  margin-bottom: 20rpx;
+}
+.meituan .content .right.data-v-03a7128b {
+  margin-left: 30rpx;
+}
+.meituan .content .right .immediate-use.data-v-03a7128b {
+  padding: 0 20rpx;
+  height: 50rpx;
+  border-radius: 25rpx;
+  line-height: 50rpx;
+  background-color: #f9ae3d !important;
+  color: #ffffff !important;
+  font-size: 24rpx;
+  border: none;
+  word-break: keep-all;
+}
+.meituan .tips.data-v-03a7128b {
+  padding: 0 20rpx;
+  border: 10rpx;
+  background-color: #f4f4f5;
+  position: relative;
+  color: #909193;
+  display: flex;
+  justify-content: space-between;
+  line-height: 60rpx;
+  font-size: 24rpx;
+}
+.meituan .tips .circle-left.data-v-03a7128b,
+.meituan .tips .circle-right.data-v-03a7128b {
+  position: absolute;
+  height: 36rpx;
+  width: 18rpx;
+  background-color: #f2f2f2;
+}
+.meituan .tips .circle-right.data-v-03a7128b {
+  border-radius: 40rpx 0 0 40rpx;
+  right: 0;
+  top: -18rpx;
+}
+.meituan .tips .circle-left.data-v-03a7128b {
+  border-radius: 0 40rpx 40rpx 0;
+  left: 0;
+  top: -18rpx;
+}
+.meituan .tips .rule.data-v-03a7128b {
+  font-size: 24rpx;
+  display: flex;
+  align-items: center;
+}
+.meituan .tips .rule text.data-v-03a7128b {
+  margin-right: 10rpx;
+  flex: 1;
+}
+.jingdong.data-v-03a7128b {
+  margin-top: 40rpx;
+  width: 700rpx;
+  height: auto;
+  background-color: #ffffff;
+  display: flex;
+}
+.jingdong .left.data-v-03a7128b {
+  padding: 0 30rpx;
+  background-color: #5f94e0;
+  text-align: center;
+  font-size: 28rpx;
+  color: #ffffff;
+}
+.jingdong .left .sum.data-v-03a7128b {
+  margin-top: 50rpx;
+  font-weight: bold;
+  font-size: 32rpx;
+}
+.jingdong .left .sum .num.data-v-03a7128b {
+  font-size: 80rpx;
+}
+.jingdong .left .type.data-v-03a7128b {
+  margin-bottom: 50rpx;
+  font-size: 24rpx;
+}
+.jingdong .right.data-v-03a7128b {
+  padding: 20rpx 20rpx 0;
+  font-size: 28rpx;
+}
+.jingdong .right .top.data-v-03a7128b {
+  border-bottom: 2rpx dashed #dadbde;
+}
+.jingdong .right .top .title.data-v-03a7128b {
+  margin-right: 60rpx;
+  line-height: 40rpx;
+}
+.jingdong .right .top .title .tag.data-v-03a7128b {
+  padding: 4rpx 20rpx;
+  background-color: #499ac9;
+  border-radius: 20rpx;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 24rpx;
+  margin-right: 10rpx;
+}
+.jingdong .right .top .bottom.data-v-03a7128b {
+  display: flex;
+  margin-top: 20rpx;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10rpx;
+}
+.jingdong .right .top .bottom .date.data-v-03a7128b {
+  font-size: 20rpx;
+  flex: 1;
+}
+.jingdong .right .top .bottom .immediate-use.data-v-03a7128b {
+  height: auto;
+  padding: 0 20rpx;
+  font-size: 24rpx;
+  border-radius: 40rpx;
+  line-height: 40rpx;
+  color: #758ea5;
+  border: 2rpx solid #758ea5;
+}
+.jingdong .right .tips.data-v-03a7128b {
+  width: 100%;
+  line-height: 50rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 24rpx;
+}
+.jingdong .right .tips .transpond.data-v-03a7128b {
+  margin-right: 10rpx;
+}
+.jingdong .right .tips .explain.data-v-03a7128b {
+  display: flex;
+  align-items: center;
+}
+.jingdong .right .tips .particulars.data-v-03a7128b {
+  width: 30rpx;
+  height: 30rpx;
+  box-sizing: border-box;
+  padding-top: 8rpx;
+  border-radius: 50%;
+  background-color: #c4c6c9;
+  text-align: center;
+}
+.taobao.data-v-03a7128b {
+  margin-top: 40rpx;
+  width: 700rpx;
+  background-color: white;
+  padding: 30rpx 20rpx 20rpx;
+  border-radius: 20rpx;
+}
+.taobao .title.data-v-03a7128b {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20rpx;
+  font-size: 30rpx;
+}
+.taobao .title .left.data-v-03a7128b {
+  display: flex;
+  align-items: center;
+}
+.taobao .title .store.data-v-03a7128b {
+  font-weight: 500;
+}
+.taobao .title .buddha.data-v-03a7128b {
+  width: 70rpx;
+  height: 70rpx;
+  border-radius: 10rpx;
+  margin-right: 10rpx;
+}
+.taobao .title .entrance.data-v-03a7128b {
+  color: #909399;
+  border: solid 2rpx #909399;
+  line-height: 48rpx;
+  padding: 0 30rpx;
+  background: none;
+  border-radius: 15px;
+}
+.taobao .ticket.data-v-03a7128b {
+  display: flex;
+}
+.taobao .ticket .left.data-v-03a7128b {
+  width: 70%;
+  padding: 30rpx 20rpx;
+  background-color: #fff5f4;
+  border-radius: 20rpx;
+  border-right: dashed 2rpx #e0d7d3;
+  display: flex;
+}
+.taobao .ticket .left .picture.data-v-03a7128b {
+  width: 172rpx;
+  height: 172rpx;
+  border-radius: 20rpx;
+}
+.taobao .ticket .left .introduce.data-v-03a7128b {
+  margin-left: 10rpx;
+}
+.taobao .ticket .left .introduce .top.data-v-03a7128b {
+  color: #f9ae3d;
+  font-size: 28rpx;
+}
+.taobao .ticket .left .introduce .top .big.data-v-03a7128b {
+  font-size: 60rpx;
+  font-weight: bold;
+  margin-right: 10rpx;
+}
+.taobao .ticket .left .introduce .type.data-v-03a7128b {
+  font-size: 28rpx;
+  color: #767a82;
+}
+.taobao .ticket .left .introduce .date.data-v-03a7128b {
+  margin-top: 10rpx;
+  font-size: 20rpx;
+  color: #767a82;
+}
+.taobao .ticket .right.data-v-03a7128b {
+  width: 30%;
+  padding: 40rpx 20rpx;
+  background-color: #fff5f4;
+  border-radius: 20rpx;
+  display: flex;
+  align-items: center;
+}
+.taobao .ticket .right .use.data-v-03a7128b {
+  height: auto;
+  padding: 0 20rpx;
+  font-size: 24rpx;
+  border-radius: 40rpx;
+  color: #ffffff !important;
+  background-color: #f9ae3d !important;
+  line-height: 40rpx;
+  color: #758ea5;
+  margin-left: 20rpx;
+}

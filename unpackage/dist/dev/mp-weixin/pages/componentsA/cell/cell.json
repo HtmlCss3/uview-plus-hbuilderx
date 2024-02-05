@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "单元格",
+  "usingComponents": {
+    "u-cell": "../../../uni_modules/uview-plus/components/u-cell/u-cell",
+    "u-cell-group": "../../../uni_modules/uview-plus/components/u-cell-group/u-cell-group",
+    "u-tag": "../../../uni_modules/uview-plus/components/u-tag/u-tag",
+    "u-gap": "../../../uni_modules/uview-plus/components/u-gap/u-gap"
+  }
+}

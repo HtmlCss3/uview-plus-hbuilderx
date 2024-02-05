@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "相册",
+  "usingComponents": {
+    "u--text": "../../../uni_modules/uview-plus/components/u--text/u--text",
+    "u-album": "../../../uni_modules/uview-plus/components/u-album/u-album"
+  }
+}

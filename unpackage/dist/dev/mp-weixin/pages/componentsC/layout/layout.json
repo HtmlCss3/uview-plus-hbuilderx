@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "布局",
+  "usingComponents": {
+    "u-col": "../../../uni_modules/uview-plus/components/u-col/u-col",
+    "u-row": "../../../uni_modules/uview-plus/components/u-row/u-row"
+  }
+}

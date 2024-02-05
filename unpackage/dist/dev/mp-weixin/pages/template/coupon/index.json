@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "coupon-优惠券",
+  "usingComponents": {
+    "u-icon": "../../../uni_modules/uview-plus/components/u-icon/u-icon"
+  }
+}

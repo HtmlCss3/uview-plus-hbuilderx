@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "折叠面板",
+  "usingComponents": {
+    "u-collapse-item": "../../../uni_modules/uview-plus/components/u-collapse-item/u-collapse-item",
+    "u-collapse": "../../../uni_modules/uview-plus/components/u-collapse/u-collapse",
+    "u-gap": "../../../uni_modules/uview-plus/components/u-gap/u-gap"
+  }
+}

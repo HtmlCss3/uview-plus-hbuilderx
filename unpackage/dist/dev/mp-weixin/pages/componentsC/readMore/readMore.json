@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "阅读更多",
+  "usingComponents": {
+    "u-parse": "../../../uni_modules/uview-plus/components/u-parse/u-parse",
+    "u-read-more": "../../../uni_modules/uview-plus/components/u-read-more/u-read-more"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "wxCenter 仿微信个人中心",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-icon": "../../../uni_modules/uview-plus/components/u-icon/u-icon",
+    "u-navbar": "../../../uni_modules/uview-plus/components/u-navbar/u-navbar",
+    "u-avatar": "../../../uni_modules/uview-plus/components/u-avatar/u-avatar",
+    "u-cell": "../../../uni_modules/uview-plus/components/u-cell/u-cell",
+    "u-cell-group": "../../../uni_modules/uview-plus/components/u-cell-group/u-cell-group"
+  }
+}

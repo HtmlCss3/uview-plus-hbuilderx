@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "内容为空",
+  "usingComponents": {
+    "u-button": "../../../uni_modules/uview-plus/components/u-button/u-button",
+    "u-empty": "../../../uni_modules/uview-plus/components/u-empty/u-empty",
+    "u-cell": "../../../uni_modules/uview-plus/components/u-cell/u-cell"
+  }
+}

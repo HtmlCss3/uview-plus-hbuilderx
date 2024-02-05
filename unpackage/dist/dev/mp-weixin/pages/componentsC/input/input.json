@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "输入框",
+  "usingComponents": {
+    "up-input": "../../../uni_modules/uview-plus/components/u-input/u-input",
+    "u--input": "../../../uni_modules/uview-plus/components/u--input/u--input",
+    "u--text": "../../../uni_modules/uview-plus/components/u--text/u--text",
+    "u-input": "../../../uni_modules/uview-plus/components/u-input/u-input",
+    "u-code": "../../../uni_modules/uview-plus/components/u-code/u-code",
+    "u-button": "../../../uni_modules/uview-plus/components/u-button/u-button",
+    "u-gap": "../../../uni_modules/uview-plus/components/u-gap/u-gap"
+  }
+}

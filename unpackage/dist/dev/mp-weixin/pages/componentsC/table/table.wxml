@@ -1,0 +1,1 @@
+<view class="u-page"><view class="u-demo-block"><text class="u-demo-block__title">基础使用</text><view class="u-demo-block__content"><u--form u-s="{{['d']}}" u-i="98094046-0" bind:__l="__l"><u-form-item wx:if="{{a}}" u-i="98094046-1,98094046-0" bind:__l="__l" u-p="{{a}}"></u-form-item></u--form></view></view></view>

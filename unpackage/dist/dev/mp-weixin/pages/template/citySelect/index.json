@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "城市选择",
+  "usingComponents": {
+    "city-select": "./u-city-select",
+    "u-button": "../../../uni_modules/uview-plus/components/u-button/u-button"
+  }
+}

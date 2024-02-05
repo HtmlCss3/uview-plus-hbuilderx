@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "加载页",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "../../../uni_modules/uview-plus/components/u-navbar/u-navbar",
+    "u-gap": "../../../uni_modules/uview-plus/components/u-gap/u-gap",
+    "u-cell": "../../../uni_modules/uview-plus/components/u-cell/u-cell",
+    "u-cell-group": "../../../uni_modules/uview-plus/components/u-cell-group/u-cell-group",
+    "u-loading-page": "../../../uni_modules/uview-plus/components/u-loading-page/u-loading-page"
+  }
+}

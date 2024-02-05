@@ -1,0 +1,56 @@
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * 使用的时候，请将下面的一行复制到您的uniapp项目根目录的uni.scss中即可
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.nav-wrap.data-v-db742eeb {
+  padding: 15px;
+  position: relative;
+}
+.lang.data-v-db742eeb {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+.nav-title.data-v-db742eeb {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.nav-info.data-v-db742eeb {
+  margin-left: 15px;
+}
+.nav-info__title.data-v-db742eeb {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.nav-info__title__text.data-v-db742eeb {
+  display: flex;
+  color: #303133;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+}
+.nav-info__title__jump.data-v-db742eeb {
+  font-size: 12px;
+  color: #3c9cff;
+  font-weight: normal;
+  margin-left: 20px;
+}
+.logo.data-v-db742eeb {
+  width: 70px;
+  height: 70px;
+  height: auto;
+}
+.nav-slogan.data-v-db742eeb {
+  color: #909193;
+  font-size: 14px;
+}
+.nav-desc.data-v-db742eeb {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #606266;
+  line-height: 20px;
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "警告",
+  "usingComponents": {
+    "u-alert": "../../../uni_modules/uview-plus/components/u-alert/u-alert"
+  }
+}

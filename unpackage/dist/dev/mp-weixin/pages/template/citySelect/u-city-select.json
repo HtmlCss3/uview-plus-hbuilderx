@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-tabs": "../../../uni_modules/uview-plus/components/u-tabs/u-tabs",
+    "u-icon": "../../../uni_modules/uview-plus/components/u-icon/u-icon",
+    "u-cell": "../../../uni_modules/uview-plus/components/u-cell/u-cell",
+    "u-cell-group": "../../../uni_modules/uview-plus/components/u-cell-group/u-cell-group",
+    "u-popup": "../../../uni_modules/uview-plus/components/u-popup/u-popup"
+  }
+}

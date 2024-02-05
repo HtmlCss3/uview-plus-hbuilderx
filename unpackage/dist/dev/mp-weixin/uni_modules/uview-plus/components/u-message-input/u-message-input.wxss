@@ -1,0 +1,114 @@
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * 使用的时候，请将下面的一行复制到您的uniapp项目根目录的uni.scss中即可
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+@keyframes breathe-bf0cf2ff {
+0% {
+    opacity: 0.3;
+}
+50% {
+    opacity: 1;
+}
+100% {
+    opacity: 0.3;
+}
+}
+.u-char-box.data-v-bf0cf2ff {
+  text-align: center;
+}
+.u-char-flex.data-v-bf0cf2ff {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  position: relative;
+}
+.u-input.data-v-bf0cf2ff {
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 200%;
+  height: 100%;
+  text-align: left;
+  z-index: 9;
+  opacity: 0;
+  background: none;
+}
+.u-char-item.data-v-bf0cf2ff {
+  position: relative;
+  width: 90rpx;
+  height: 90rpx;
+  margin: 10rpx 10rpx;
+  font-size: 60rpx;
+  font-weight: bold;
+  color: #303133;
+  line-height: 90rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.u-middle-line.data-v-bf0cf2ff {
+  border: none;
+}
+.u-box.data-v-bf0cf2ff {
+  box-sizing: border-box;
+  border: 2rpx solid #cccccc;
+  border-radius: 6rpx;
+}
+.u-box-active.data-v-bf0cf2ff {
+  overflow: hidden;
+  animation-timing-function: ease-in-out;
+  animation-duration: 1500ms;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  border: 2rpx solid #3c9cff;
+}
+.u-middle-line-active.data-v-bf0cf2ff {
+  background: #3c9cff;
+}
+.u-breathe.data-v-bf0cf2ff {
+  animation: breathe-bf0cf2ff 2s infinite ease;
+}
+.u-placeholder-line.data-v-bf0cf2ff {
+  display: none;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 2rpx;
+  height: 40rpx;
+  background: #333333;
+  animation: twinkling 1.5s infinite ease;
+}
+.u-animation-breathe.data-v-bf0cf2ff {
+  animation-name: breathe-bf0cf2ff;
+}
+.u-dot.data-v-bf0cf2ff {
+  font-size: 34rpx;
+  line-height: 34rpx;
+}
+.u-middle-line.data-v-bf0cf2ff {
+  height: 4px;
+  background: #000000;
+  width: 80%;
+  position: absolute;
+  border-radius: 2px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.u-bottom-line-active.data-v-bf0cf2ff {
+  background: #3c9cff;
+}
+.u-bottom-line.data-v-bf0cf2ff {
+  height: 4px;
+  background: #000000;
+  width: 80%;
+  position: absolute;
+  border-radius: 2px;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%);
+}

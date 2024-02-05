@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "标签",
+  "usingComponents": {
+    "u-tag": "../../../uni_modules/uview-plus/components/u-tag/u-tag"
+  }
+}

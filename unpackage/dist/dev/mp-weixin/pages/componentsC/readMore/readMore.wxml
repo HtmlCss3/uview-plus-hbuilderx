@@ -1,0 +1,1 @@
+<view class="u-page"><u-read-more wx:if="{{f}}" class="r" u-s="{{['d']}}" u-r="uReadMore" bindopen="{{d}}" bindclose="{{e}}" u-i="81e25a4a-0" bind:__l="__l" u-p="{{f}}"><u-parse wx:if="{{b}}" bindload="{{a}}" u-i="81e25a4a-1,81e25a4a-0" bind:__l="__l" u-p="{{b}}"></u-parse></u-read-more></view>

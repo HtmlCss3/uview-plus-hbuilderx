@@ -1,0 +1,1 @@
+<view class="u-content"><u-parse wx:if="{{e}}" bindload="{{a}}" bindready="{{b}}" bindimgTap="{{c}}" bindlinkTap="{{d}}" u-i="2bcc75f4-0" bind:__l="__l" u-p="{{e}}"/></view>

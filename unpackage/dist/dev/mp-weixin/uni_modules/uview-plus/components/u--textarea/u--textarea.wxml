@@ -1,0 +1,1 @@
+<uv-textarea wx:if="{{c}}" bindinput="{{a}}" bindupdateModelValue="{{b}}" u-i="c9ffe53c-0" bind:__l="__l" u-p="{{c}}"></uv-textarea>

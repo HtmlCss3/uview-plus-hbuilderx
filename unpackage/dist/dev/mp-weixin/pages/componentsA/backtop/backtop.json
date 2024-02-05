@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "返回顶部",
+  "usingComponents": {
+    "u-checkbox": "../../../uni_modules/uview-plus/components/u-checkbox/u-checkbox",
+    "u-checkbox-group": "../../../uni_modules/uview-plus/components/u-checkbox-group/u-checkbox-group",
+    "u-back-top": "../../../uni_modules/uview-plus/components/u-back-top/u-back-top"
+  }
+}

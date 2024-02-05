@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "表格",
+  "usingComponents": {
+    "u-form-item": "../../../uni_modules/uview-plus/components/u-form-item/u-form-item",
+    "u--form": "../../../uni_modules/uview-plus/components/u--form/u--form"
+  }
+}
